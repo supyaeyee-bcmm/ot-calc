@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+
+# Personal data — never commit
+data/
+samples/
+screenshots/
+ot-history-dump.md
+docs/
+CLAUDE.md

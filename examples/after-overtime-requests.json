@@ -1,0 +1,13 @@
+{
+  "status": "OK",
+  "data": {
+    "current_page": 1,
+    "data": [
+      { "employee_overtime_id": "90001", "employee_id": "10001", "employee_code": "10001", "employee_name": "Example Employee", "overtime_date": "2030-03-05", "overtime_time": "03:00", "status": "", "remark": "Project OT", "denied_reason": "", "approver_status": "Confirmed", "overtime_amount": ["15000.00", "0.00"] },
+      { "employee_overtime_id": "90002", "employee_id": "10001", "employee_code": "10001", "employee_name": "Example Employee", "overtime_date": "2030-03-09", "overtime_time": "09:00", "status": "", "remark": "Project OT", "denied_reason": "", "approver_status": "Pending", "overtime_amount": ["45000.00", "0.00"] }
+    ],
+    "last_page": 1,
+    "per_page": "20",
+    "total": 2
+  }
+}

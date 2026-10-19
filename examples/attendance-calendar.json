@@ -1,0 +1,12 @@
+{
+  "status": "OK",
+  "row_count": "Total Row :6 row(s).",
+  "data": [
+    { "id": 1, "title": "", "shift": "Temporary Shift", "working_hour": "08:10", "trip_des": "", "leave_des": "", "in_des": "", "out_des": "", "in_hour": "07:50", "in_status": "", "forget_card_access_in": "0", "out_hour": "17:04", "out_status": "", "forget_card_access_out": "0", "leave_name": "", "start": "2030-03-04", "end": "2030-03-04", "classNames": "normal", "exchange": false, "exchange_way": "", "origin_date": "" },
+    { "id": 2, "title": "", "shift": "Temporary Shift", "working_hour": "11:10", "trip_des": "", "leave_des": "", "in_des": "", "out_des": "", "in_hour": "07:55", "in_status": "", "forget_card_access_in": "0", "out_hour": "20:05", "out_status": "", "forget_card_access_out": "0", "leave_name": "", "start": "2030-03-05", "end": "2030-03-05", "classNames": "normal", "exchange": false, "exchange_way": "", "origin_date": "" },
+    { "id": 3, "title": "", "shift": "Temporary Shift", "working_hour": "10:30", "trip_des": "", "leave_des": "", "in_des": "", "out_des": "OUT: Project OT", "in_hour": "07:45", "in_status": "", "forget_card_access_in": "0", "out_hour": "19:15", "out_status": "", "forget_card_access_out": "1", "leave_name": "", "start": "2030-03-06", "end": "2030-03-06", "classNames": "normal", "exchange": false, "exchange_way": "", "origin_date": "" },
+    { "id": 4, "title": "", "shift": "Temporary Shift", "working_hour": "08:00", "trip_des": "", "leave_des": "", "in_des": "IN: On Business Trip", "out_des": "OUT: On Business Trip", "in_hour": "08:00", "in_status": "", "forget_card_access_in": "1", "out_hour": "17:00", "out_status": "", "forget_card_access_out": "1", "leave_name": "", "start": "2030-03-07", "end": "2030-03-07", "classNames": "normal", "exchange": false, "exchange_way": "", "origin_date": "" },
+    { "id": 5, "title": "", "shift": "No Shift", "working_hour": "09:00", "trip_des": "", "leave_des": "", "in_des": "", "out_des": "", "in_hour": "08:00", "in_status": "", "forget_card_access_in": "0", "out_hour": "18:00", "out_status": "", "forget_card_access_out": "0", "leave_name": "", "start": "2030-03-09", "end": "2030-03-09", "classNames": "normal", "exchange": false, "exchange_way": "", "origin_date": "" },
+    { "id": 6, "title": "", "shift": "Public Holiday", "working_hour": "", "trip_des": "", "leave_des": "", "in_des": "", "out_des": "", "in_hour": "", "in_status": "", "out_hour": "", "out_status": "", "leave_name": "", "start": "2030-03-11", "end": "2030-03-11", "classNames": "holiday" }
+  ]
+}

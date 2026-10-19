@@ -1,0 +1,12 @@
+{
+  "status": "OK",
+  "data": {
+    "current_page": 1,
+    "data": [
+      { "allowance_request_id": 70001, "employee_id": "10001", "employee_code": "10001", "employee_name": "Example Employee", "allowance_request_date": ["2030-03-09"], "allowance_payment": "Pay", "allowance_name": "Morning and Regular OT for Sat / Sun Holiday", "total_amount": "9000", "description": "Project OT", "approver_status": "Pending", "denied_reason": "" }
+    ],
+    "last_page": 1,
+    "per_page": "20",
+    "total": 1
+  }
+}
